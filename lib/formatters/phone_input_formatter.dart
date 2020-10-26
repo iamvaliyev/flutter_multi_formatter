@@ -334,7 +334,7 @@ class _PhoneCodes {
       'country': 'Azerbaijan',
       'phoneCode': '994',
       'countryCode': 'AZ',
-      'phoneMask': '+000 000 000 0000',
+      'phoneMask': '+000 00 000 0000',
     },
     {
       'country': 'Bahamas',
